@@ -1,0 +1,8 @@
+name: BlueStarCombatDrill
+version: '1.0.0-SNAPSHOT'
+main: cn.xiaomanmc.bluestar.combatdrill.CombatDrill
+api-version: '1.20'
+commands:
+  join:
+    usage: "/join"
+    description: "Join a Combat game!"
